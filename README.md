@@ -93,7 +93,7 @@ luna-automation/
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/luna-automation.git
+git clone https://github.com/laitartlucas/Luna-Automation.git
 cd luna-automation
 ```
 
