@@ -19,6 +19,7 @@ build/
 node_modules/
 
 # === AMBIENTE ===
+env
 .env
 .env.local
 .env.*
