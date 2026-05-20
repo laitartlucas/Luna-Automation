@@ -1,0 +1,29 @@
+# === CREDENCIAIS E SESSÕES (NUNCA COMMITAR) ===
+config/google_credentials.json
+config/config.py
+sessions/
+logs/
+
+# === PYTHON ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.spec
+
+# === NODE.JS ===
+node_modules/
+
+# === AMBIENTE ===
+.env
+.env.local
+.env.*
+
+# === SISTEMA ===
+.DS_Store
+Thumbs.db
+desktop.ini
